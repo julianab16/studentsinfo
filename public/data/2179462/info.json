@@ -1,0 +1,11 @@
+{
+    "nombre": "Helkin Gabriel Jimenez Medina",
+    "edad": 28,
+    "carrera": "Ingenieria de Sistemas",
+    "semestre": 6,
+    "gustos": ["Viajar","Nadar","Ver peliculas","Cantar","Leer", "Escuchar musica","Hablar"],
+    "noGustos": ["Ir de Rumba","no dormir", "la Hipocresia","La mala vibra"],
+    "foto": "https://www.univalle.edu.co/media/k2/items/cache/9845d3c220e6e5674241ce626189d694_M.jpg"
+}
+
+  
