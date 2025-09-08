@@ -1,0 +1,9 @@
+{
+    "nombre": "Gabriela Guzmán",
+    "edad": 19,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos": ["Leer", "Ver series y peliculas", "Comer", "Dormir"],
+    "noGustos": ["Suciedad", "Calor", "Espacios pequeños", "Transporte publico"],
+    "foto": "https://vicebienestar.univalle.edu.co/media/k2/items/cache/42a35505dabe860dcdeb51f92d5be768_L.jpg"
+}
