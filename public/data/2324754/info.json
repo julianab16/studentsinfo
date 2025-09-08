@@ -1,0 +1,9 @@
+{
+    "nombre": "Valentina Sanchez Castrillon",
+    "edad": 19,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos": ["Cine", "Poemas", "Dormir (mucho)", "Limon con sal supremacy", "Bandeja paisa con jugo de maracuyá"],
+    "noGustos": ["Bandeja mojada de central", "Tamal", "Labubus", "Sol/Verano/Calor"],
+    "foto": "https://i.pinimg.com/736x/57/97/99/57979911818d82a1358d0a55c40032d2.jpg"
+}
