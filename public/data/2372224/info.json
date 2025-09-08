@@ -1,0 +1,11 @@
+{
+    "nombre": "Juliana Bolaños",
+    "edad": 20,
+    "carrera": "Ingenieria de Sistemas",
+    "semestre": 6,
+    "gustos": ["Lectura", "Cine", "Correr", "Cocinar"],
+    "noGustos": ["Despertarse temprano", "El calor", "Ruido fuerte", "Tareas largas"],
+    "foto": "https://vicebienestar.univalle.edu.co/media/k2/items/cache/42a35505dabe860dcdeb51f92d5be768_L.jpg"
+}
+
+  
