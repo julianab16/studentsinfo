@@ -1,0 +1,11 @@
+{
+    "nombre": "Juan Pablo Moreno Hernandez",
+    "edad": 20,
+    "carrera": "ing en sistemas",
+    "semestre": 6,
+    "gustos": ["videojuegos", "gatos", "musica"],
+    "noGustos": ["Despertarse temprano", "ensalada", "Ruido fuerte", "Tareas largas"],
+    "foto": "https://www.univalle.edu.co/media/k2/items/cache/9845d3c220e6e5674241ce626189d694_M.jpg"
+}
+
+  
