@@ -1,0 +1,11 @@
+{
+    "nombre": "Esteban Samuel Cordoba Narvaez",
+    "edad": 20,
+    "carrera": "Ingenieria de Sistemas",
+    "semestre": 6,
+    "gustos": ["Baloncesto","Nadar","Videojuegos","Programar","Composicion de canciones", "Escuchar musica","comer"],
+    "noGustos": ["badbunny","no descansar", "la injusticia","la mentira"],
+    "foto": "https://www.univalle.edu.co/media/k2/items/cache/9845d3c220e6e5674241ce626189d694_M.jpg"
+}
+
+  
